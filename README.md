@@ -1,6 +1,5 @@
 Link:
 
-
 Q1.What is ReactJs.
 A JavaScript library for building dyanmic user interfaces, SPAs.
 
