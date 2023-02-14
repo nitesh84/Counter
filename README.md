@@ -1,4 +1,4 @@
-Link:
+Link:  https://bright-pastelito-0c3d87.netlify.app/
 
 Q1.What is ReactJs.
 A JavaScript library for building dyanmic user interfaces, SPAs.
